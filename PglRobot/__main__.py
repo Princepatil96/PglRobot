@@ -239,13 +239,13 @@ def start(update: Update, context: CallbackContext):
                             ),
                             InlineKeyboardButton(
                                 text="UPDATES ⚡️",
-                                url="https://t.me/VCUpdates",
+                                url="https://t.me/STYLISH_FRIEND_CLUB",
                             ),
                         ],
                         [
                             InlineKeyboardButton(
-                                text="SOURCE CODE ⚡️",
-                                url="https://github.com/iisgaurav/PglRobot",
+                                text="OWNER ⚡️",
+                                url="https://t.me/Princepatil96k",
                             ),
                         ],
                     ]
